@@ -1,0 +1,23 @@
+C:.
+│   process_data.py
+│
+├───analysis
+│       set1.ipynb
+│
+├───cleaned_data
+│       diagnoses_cleaned.csv
+│       encounters_cleaned.csv
+│       medications_cleaned.csv
+│       observations_cleaned.csv
+│       patients_cleaned.csv
+│       procedures_cleaned.csv
+│
+├───data
+│       diagnoses.json
+│       ehr_journeys_database.sqlite
+│       medications.json
+│       observations.csv
+│       patients.csv
+│       procedures.csv
+│
+└───info
