@@ -1,0 +1,222 @@
+diagnosis_id,encounter_id,patient_id,diagnosis_code,diagnosis_description,date_recorded
+88003dd7-1a8a-4afd-9eec-79771380ccea,f5f83a54-5883-413d-9bb4-c859fa6b8cde,ea3a68f6-ecf9-46aa-be97-7ecbfc7e7fcb,E11.9,Type 2 diabetes mellitus without complications,2025-04-17
+013e1dc7-a966-4713-858f-7fa46b563876,a4345130-e167-45b5-9e60-75a1815d3ae0,ea3a68f6-ecf9-46aa-be97-7ecbfc7e7fcb,Z00.00,Encounter for general adult medical examination without abnormal findings,2026-04-08
+07f7e332-3e04-4874-b240-f62dbb27f179,096a1b40-bc37-43e6-a843-a224fd24aec0,0eeb5541-d0b3-47fe-839c-a2227526b751,I10,Essential (primary) hypertension,2008-09-19
+001dcfff-c215-42b2-840f-fb8d7430f8f6,946bb28d-741a-4e03-8a1f-7a8d96e75a4e,83f30300-2873-49f7-8fe4-06903a75db73,Z00.00,Encounter for general adult medical examination without abnormal findings,2000-06-21
+49c86069-8554-4c80-90d3-f7fd5b4b27ad,f2641949-b626-4f7e-89a3-e981d865ccbe,3a707a9a-00b9-40f1-90bf-1a4ff74fcb61,N39.0,"Urinary tract infection, site not specified",2013-09-15
+338d1c90-1f0f-4b0c-9aaa-1fda9ee0f18c,ba3efbc1-cfcc-4832-a55c-6252682dd896,825e3f21-ca2a-442a-8d95-7f3dd64c3c6a,I10,Essential (primary) hypertension,1977-03-26
+5d893a63-39fb-4f24-b672-68249659c08d,4d5bc738-8c6d-4ced-9c8c-9e9bd132ba16,825e3f21-ca2a-442a-8d95-7f3dd64c3c6a,N39.0,"Urinary tract infection, site not specified",2019-03-29
+046f913c-3304-44a0-8764-ec30cd4ca969,ffdf79a3-c45a-4715-9f51-f64558a63ddf,5b2fa6df-d688-44cd-9c4a-9016eeb2989d,E11.9,Type 2 diabetes mellitus without complications,2024-02-01
+4b7511a1-e6db-447d-9b59-f8daf5fb7628,4dd9bf3c-3308-45a2-91cb-92f59842abff,5b2fa6df-d688-44cd-9c4a-9016eeb2989d,Z00.00,Encounter for general adult medical examination without abnormal findings,2025-07-03
+7298bf50-39a3-4b4f-aca0-f9a5c747307a,6f73abcd-5c0b-4c71-a7fa-91ac861e3a03,3f46cf8e-29bc-4f3d-a54f-f3c40b871812,I10,Essential (primary) hypertension,1979-12-08
+5efd0035-1e1e-474c-a4ab-bc2eec3d3616,5c0fcd24-e991-4052-a77f-bfa0603e49d1,66903b4a-3a21-476a-816f-6d30ebc6bc0b,N39.0,"Urinary tract infection, site not specified",2004-04-16
+acbeff81-567a-45d2-9bcb-5e6cc4f22fe6,27ecbc31-e91c-48e3-a169-b9669dc5ac54,66903b4a-3a21-476a-816f-6d30ebc6bc0b,I10,Essential (primary) hypertension,2019-11-04
+bc850edb-a05a-454d-ac28-60ca088bfdfe,34e2ac66-70c6-4f01-8208-3fc98a7dd596,2b93bcd4-6371-4e4e-adc7-4fed13d4c32b,I10,Essential (primary) hypertension,2012-10-17
+487b08d0-1a10-4e6f-b6cb-25fe3fcfe317,fe4fea5f-8012-43ed-a23e-7312628631fd,2b93bcd4-6371-4e4e-adc7-4fed13d4c32b,E11.9,Type 2 diabetes mellitus without complications,2023-11-22
+4c3c54a7-26ad-4a33-a0c6-21a1e4361b28,548e7822-8665-461d-b026-58f893824bb3,2b091a02-499d-498e-8f35-e5f6c24d54d3,E11.9,Type 2 diabetes mellitus without complications,2008-09-24
+10407746-fb4b-4209-9fb7-35a02d360cf0,db9a40a9-760e-49bf-9cbc-42a131855795,ac7c9ea4-1715-41dd-b592-61cd0c813bd4,E11.9,Type 2 diabetes mellitus without complications,1990-10-01
+b2f8d26e-eb43-4af2-84ae-bb153febf569,8751cd35-5943-4b8e-b5cb-ae95b9c8512c,ac7c9ea4-1715-41dd-b592-61cd0c813bd4,Z00.00,Encounter for general adult medical examination without abnormal findings,2013-07-06
+ef8894bc-6aeb-4c66-896a-25c2f569ce81,31ec0302-8991-492d-83b5-4548af0eb92d,a5b73808-8e04-4d32-ae78-3ac279566e6f,Z00.00,Encounter for general adult medical examination without abnormal findings,2012-09-07
+04b36dde-ee92-4bb0-a331-e45f2d18ebed,704281fa-6855-4294-8a35-45b44d175f97,a5b73808-8e04-4d32-ae78-3ac279566e6f,E11.9,Type 2 diabetes mellitus without complications,2018-10-02
+4ae8638e-66dd-4021-b26c-b3e9787331e8,3f9261c6-c368-4705-947c-53a7801b62e0,8f854f79-bcc2-43db-a471-274d98ff541b,E11.9,Type 2 diabetes mellitus without complications,2010-03-21
+45b8de6f-b7bb-4cb1-aa49-f248e4b88657,6dc83f6a-0a03-403f-94f5-56984a900cd4,8f854f79-bcc2-43db-a471-274d98ff541b,I10,Essential (primary) hypertension,2020-09-22
+2c274705-8ca6-419d-a0a0-727fd469c8d8,3182fddb-adc0-490f-a99f-ef39e5231379,679adf36-ce5a-4f10-b4ca-31f0b1f896c1,Z00.00,Encounter for general adult medical examination without abnormal findings,2002-12-09
+d4016bf0-cae7-4bb7-874e-8ec388e945be,c27a7e9b-96f7-42e8-86d9-cb453a380306,5a495254-27ed-4dc9-b2b6-850a8eb43eea,Z00.00,Encounter for general adult medical examination without abnormal findings,2026-12-20
+6f300405-2c15-49eb-ad33-6feee14b0cd2,f0e3e28b-6684-4ed8-bee7-1b17a6cf13dc,8a23a72c-a053-4afb-b70e-a6c95a15c29a,I10,Essential (primary) hypertension,2010-04-05
+84d69e00-2295-407b-ba6f-2f0227f75ed0,67ab6a3b-bc97-4dc0-80f4-9fbd50cd719f,8a23a72c-a053-4afb-b70e-a6c95a15c29a,E11.9,Type 2 diabetes mellitus without complications,2024-11-11
+196f1283-a1d7-4368-a7a1-2fac550ad5e2,91104039-6ca2-427c-8b1a-1337111bf4d7,9fd3f0f5-c157-4a56-bd7d-f82de27a658e,E11.9,Type 2 diabetes mellitus without complications,2015-11-17
+a24eae44-0f54-4e19-94f2-0d0fa9a27b3b,91be3d3c-93ab-48e4-9ecb-899b320eb4d4,9fd3f0f5-c157-4a56-bd7d-f82de27a658e,I10,Essential (primary) hypertension,2023-03-31
+bc302892-f33d-4dca-8d3f-d40d0eb9f249,67321f08-70e3-496b-ba80-a1f7ab3ee60b,92e2f018-1cb9-4bb6-aafc-23507fa2c21b,N39.0,"Urinary tract infection, site not specified",2003-07-11
+b7e08004-0b27-4801-877a-1def1b2705d8,71b7efb2-0c3b-4995-9d18-1b2b7af7add0,92e2f018-1cb9-4bb6-aafc-23507fa2c21b,I10,Essential (primary) hypertension,2008-08-01
+1d0791e0-337b-4421-aff9-17cf5bdb8171,3be004b8-acab-4877-a45f-e330901c4774,84a90c46-3cb3-4061-a843-bacfda9f4aec,N39.0,"Urinary tract infection, site not specified",2026-08-07
+ab1735f6-2321-4088-8158-e21ed145cc8d,e64d644f-2705-4a74-8980-06d8087a8670,84a90c46-3cb3-4061-a843-bacfda9f4aec,I10,Essential (primary) hypertension,2027-02-04
+936fe4fb-22ee-4975-8775-c9fecea889a2,4a7c2e26-9984-402a-b2b1-93927e636be2,4aceb9aa-508b-4df2-94fe-3bc1263c5dc8,Z00.00,Encounter for general adult medical examination without abnormal findings,2013-12-04
+c264cbd4-923a-47fd-844e-6fd14d641fc8,dec84a15-1ec1-4366-a9df-5616f8fef2d1,9aa42d7e-8bc7-49b4-a9bd-4941d110fbf6,Z00.00,Encounter for general adult medical examination without abnormal findings,2016-07-22
+e6384246-ceab-4063-92e2-d893ba6a9bd8,4c0f41c1-88ab-43de-a16c-8bc3c0345a57,57a7fe36-802b-41ae-8f3e-48523af23a45,I10,Essential (primary) hypertension,2018-12-25
+27d7cc67-63f6-4eac-a766-c3c43f02723a,68b00691-3d7b-49e5-944d-3d6d2adfc222,57a7fe36-802b-41ae-8f3e-48523af23a45,E11.9,Type 2 diabetes mellitus without complications,2023-03-13
+d3a953c8-9134-4519-abc0-4eeba780d7a9,48c87855-774c-4fbd-a670-8051864ba417,815c79ab-1e36-49f8-bf80-0762c05df330,E11.9,Type 2 diabetes mellitus without complications,2018-12-06
+6bd079fe-ce8c-47b9-9285-0e3ef57b18a1,37f48d87-43d5-406a-ac8a-4647f6b16493,f0743c26-5a52-4b71-baee-9004b144da42,E11.9,Type 2 diabetes mellitus without complications,1997-06-05
+7457378a-c353-47ed-a3ac-f052b8f4fa32,f4850eaa-b81d-4969-ac18-4c51408e8d3f,f0743c26-5a52-4b71-baee-9004b144da42,I10,Essential (primary) hypertension,2006-01-06
+ba3d0e95-c6b8-4303-b04f-888e93c276fc,4e07b6cd-8da2-4e6a-9d77-fb6fa421f883,57e5da8c-f896-4025-8b75-ee3f402396b5,Z00.00,Encounter for general adult medical examination without abnormal findings,2010-08-30
+a1cccf91-6f79-47e5-8a44-aec35c192333,c97240fe-825b-4faf-b59b-ddbd4d98fdab,e93e4d7d-e6c3-4164-a69a-d1b8e79396eb,E11.9,Type 2 diabetes mellitus without complications,1970-09-09
+fb8acf97-d195-40d5-905c-8b116f848517,038cf138-cf0a-44c5-98db-62f402521567,20f0d9b7-f745-4b47-a240-b86670139be5,N39.0,"Urinary tract infection, site not specified",2005-11-27
+29df0d51-1ff3-4a48-a0af-3a22b2c9320d,3665f193-8197-4ccc-8879-55339d6fec7b,46f7d133-ec3a-44df-beb0-16875799e32a,I10,Essential (primary) hypertension,2019-12-19
+047a7c92-917c-4a16-b69c-8c72c6428d55,fcc209bf-5bbc-45df-b6f5-ffee84b5340b,46f7d133-ec3a-44df-beb0-16875799e32a,E11.9,Type 2 diabetes mellitus without complications,2021-11-05
+db82a7f5-3d1b-4ef9-80ac-34015a52b34f,29620621-c4c0-4ebd-9692-e6d666762c29,b64ef94b-d1b9-47fc-91fd-c866b5818bc9,Z00.00,Encounter for general adult medical examination without abnormal findings,2020-03-02
+9da50009-7112-4d4b-b3a8-9339adfaada1,6346104d-36e5-4ee2-a5bd-316ffbb0bf80,a4efb780-74f5-4436-bc29-52d2f691ed9b,Z00.00,Encounter for general adult medical examination without abnormal findings,1992-04-23
+50d31f95-30a3-4d03-a66f-609adab3a9d0,333be551-77ef-432d-ba8b-8b5dd1c005a5,a4efb780-74f5-4436-bc29-52d2f691ed9b,I10,Essential (primary) hypertension,2011-05-06
+28ab3bfe-8ea4-4342-ab05-070545c0d48b,26708bfd-3590-4ab6-b2f3-6336b910a64f,f15dcc9b-329d-4411-b975-42242109d6ec,E11.9,Type 2 diabetes mellitus without complications,2023-11-25
+57555183-0c29-4192-862f-d1f64e6c6ba1,4ba9fc0b-8d66-4c5f-9238-dfad2f3b44e7,73126cf2-bee7-4d94-a5c3-98ea1a299fa3,N39.0,"Urinary tract infection, site not specified",2010-03-21
+7be9b84b-1274-4c7a-a486-861d60cbe5f8,95349dbf-202a-42ec-88cb-4552d571d469,5ecc58d5-ee9a-4a34-8625-39d6208ddfe9,J06.9,"Acute upper respiratory infection, unspecified",2022-06-29
+10e0a498-db22-4684-ae9b-07ab346cc6ad,1bc67df8-e46b-4d01-bec2-e0ec9e0bb274,d00ad3b5-9279-4e9c-b5f1-735d20a9ce7e,E11.9,Type 2 diabetes mellitus without complications,2019-11-03
+ae8e0fbf-d3ad-4a02-bc54-8aab59675fa2,48b226a6-cb60-4185-b7d8-23686f74bea6,d00ad3b5-9279-4e9c-b5f1-735d20a9ce7e,J06.9,"Acute upper respiratory infection, unspecified",2022-10-02
+a4de2dba-88ba-4e93-9e04-ad97c610b65e,124444b0-9795-41b7-a0d9-b646a654bdf2,4d8432c5-fdd2-4289-88a2-27396a0ead26,E11.9,Type 2 diabetes mellitus without complications,1994-01-30
+a78e2e15-4b74-47e5-b927-1c7e4616a983,172d5d76-028f-4344-8b83-002f988e032c,f2fdb77b-7bd6-4902-94d2-eb474e7df824,I10,Essential (primary) hypertension,2024-04-07
+268d4ad3-3edd-4cec-858a-2f5469eeec5b,7270660d-d806-469d-a4c0-ed73fed54771,f2fdb77b-7bd6-4902-94d2-eb474e7df824,Z00.00,Encounter for general adult medical examination without abnormal findings,2025-07-17
+05670d31-3245-42e0-99fe-dfd2d7d08ff0,21eb6eae-47fa-42b1-85e6-fe4f401f7a24,be60a0e1-53aa-4665-ba2b-d92f4d959bf4,E11.9,Type 2 diabetes mellitus without complications,2017-09-12
+f49ad5f2-5c58-42f6-8603-059d2854bc6f,c328a40c-73ae-4477-94c1-1c7e7824e08e,be60a0e1-53aa-4665-ba2b-d92f4d959bf4,I10,Essential (primary) hypertension,2020-02-13
+c3eff13f-77a9-47f0-a9a5-ac0ea3bc7dee,6e4b5a45-a480-4c9e-b1b1-8517f824a35e,1256a85d-9368-4f5f-8abd-3c30fd824260,E11.9,Type 2 diabetes mellitus without complications,2020-07-02
+e531bd74-a383-464b-bc47-d0051b1cd418,d84e677e-3762-472a-872b-7415c233cffc,1256a85d-9368-4f5f-8abd-3c30fd824260,J06.9,"Acute upper respiratory infection, unspecified",2023-09-01
+016863d7-a085-4703-a265-cb4c3e06d8ab,17986c9c-3bc0-4845-870a-8c221eef5e92,c840057d-e955-4e43-bc8f-9d08b4ec93f3,J06.9,"Acute upper respiratory infection, unspecified",2021-06-12
+7afb6d7c-2dcf-41a5-b7ba-482eb086e27a,7aa7a7bb-bde1-40f5-9fd7-2d93344c794b,c840057d-e955-4e43-bc8f-9d08b4ec93f3,Z00.00,Encounter for general adult medical examination without abnormal findings,2023-07-02
+64bb062d-dd3a-47e0-9542-ef45c432018b,f67b6ee3-bf07-45e3-adec-54e491248e94,e691bd89-6468-46bf-b346-5d200f1337a7,Z00.00,Encounter for general adult medical examination without abnormal findings,2008-03-02
+59c43c8d-fd6a-4fa8-9750-7648bdfafa42,07386799-6f36-4a23-a393-60526e6901cc,7ce0a8e6-3e79-41bd-a47e-4bb4cbbf3a5b,N39.0,"Urinary tract infection, site not specified",2000-11-24
+003e5093-acc8-495d-a676-1ef004afaf4a,9111ceae-d84a-4416-95f1-782e8ed7d108,7ce0a8e6-3e79-41bd-a47e-4bb4cbbf3a5b,Z00.00,Encounter for general adult medical examination without abnormal findings,2005-09-23
+e81ac211-d484-4a79-b9dc-726758ba8070,2c1a4014-ca3b-41e2-b407-a75927a46eba,44625e7a-6c26-4fca-9979-fd015554bd9a,I10,Essential (primary) hypertension,2005-05-29
+f006b8b0-087d-4583-b6a0-ab340df571d5,4112fb7c-e5ed-4a84-ac08-f5f2e086823d,44625e7a-6c26-4fca-9979-fd015554bd9a,J06.9,"Acute upper respiratory infection, unspecified",2007-09-11
+a3f0e1b8-87ae-48eb-8ba1-cd1e5f437e1f,d08190bf-b49f-472f-bb3a-10040fbc87aa,67cd7b9a-a53a-4ff0-be44-b2c6b95bb496,J06.9,"Acute upper respiratory infection, unspecified",2022-07-31
+c2193a37-a896-441b-a830-66016a47af44,5ff0f0cf-70ef-460d-8d55-dfdaa5672553,67cd7b9a-a53a-4ff0-be44-b2c6b95bb496,E11.9,Type 2 diabetes mellitus without complications,2024-12-02
+0244c1db-aebe-4e21-8140-9d86652aee2b,958bc302-6e73-4bb9-85c1-49dc44962d31,11e5c85f-6299-4bd4-9794-18e6c830c649,I10,Essential (primary) hypertension,2007-11-23
+66411bf4-224c-4a9a-b73d-0f99ec0b0b9b,c87c7a63-3b1a-4463-a8bd-2ebf748397c1,11e5c85f-6299-4bd4-9794-18e6c830c649,Z00.00,Encounter for general adult medical examination without abnormal findings,2021-01-15
+4b105e54-7faf-4e9e-bf89-980f13549149,bf94a2b6-6528-4ffe-83f9-c4585bd3cb5e,773e5820-82b8-497b-864f-c08ca2bd2322,E11.9,Type 2 diabetes mellitus without complications,2023-02-17
+55dafb71-c322-4809-a39b-ec6af65f7c4b,1c732ce4-9ec3-4d4b-846a-225750d8cf15,707b3e82-ec4b-4ec7-bd47-0623fff4c482,Z00.00,Encounter for general adult medical examination without abnormal findings,2024-05-28
+288e8535-1a21-43ab-8a63-51b24efcd045,f5e0e0ad-a316-481f-9011-2b055a679f81,707b3e82-ec4b-4ec7-bd47-0623fff4c482,I10,Essential (primary) hypertension,2025-07-08
+65fa1e75-88c0-40b4-b6a6-34fa9d2cc90a,a6fc4600-226c-4e9a-83b3-cf1fb9477fc1,4b90edd3-b1cb-44bc-9799-6e91c97b3cb8,Z00.00,Encounter for general adult medical examination without abnormal findings,1996-08-20
+6a68e756-826b-445b-b88c-3e33a0c26428,66805100-57f8-4692-a826-d5a59d472066,4b90edd3-b1cb-44bc-9799-6e91c97b3cb8,J06.9,"Acute upper respiratory infection, unspecified",2005-08-27
+16cd75b4-d8e4-47e2-a039-8e4fd2bbd006,565e7793-2b12-463b-b937-4642e4118255,ccf2d5db-64ab-47b7-864b-ea2e5ba6f88f,I10,Essential (primary) hypertension,1987-01-26
+ad0f1350-8636-4b89-9e26-0e816a8ff599,995fef77-2953-42eb-8ef8-a65731011261,9d5174b3-1376-4e7c-8fc1-c8ffc60ded32,I10,Essential (primary) hypertension,2021-09-24
+141ae9d0-292a-46d1-900b-3fb013dcd40a,125e79e0-3aaf-4622-b845-90d6b66c3abf,b09ee1a5-528e-42e6-add3-582f632bbf4e,E11.9,Type 2 diabetes mellitus without complications,1988-09-02
+5df8c3fb-dbc5-430a-86f9-8e2d338f2b6f,32b5ae52-e04e-4a8a-9915-600d19bb8271,b09ee1a5-528e-42e6-add3-582f632bbf4e,Z00.00,Encounter for general adult medical examination without abnormal findings,1996-07-13
+dc25319d-7c96-4700-9714-26d1a7acceab,132d5062-4794-494f-a150-c9d7a988e3e3,b36bc1a8-6f18-4fc6-ae23-9e20e204e649,E11.9,Type 2 diabetes mellitus without complications,2021-10-16
+4811f42e-2b59-4fc8-a3ee-43b50b8f2153,91a0fbfe-d141-4f98-b130-ff4b8a521aba,b36bc1a8-6f18-4fc6-ae23-9e20e204e649,Z00.00,Encounter for general adult medical examination without abnormal findings,2024-01-01
+8beaa44e-fe4e-4da5-a28a-dca80e4b679f,9528a7f7-0ab0-4e1e-9a51-f3227bb7e32c,6f3f9303-a86e-4e17-b684-e217f18fae51,Z00.00,Encounter for general adult medical examination without abnormal findings,1992-09-18
+498556ab-7349-4667-b426-0d6bd17bd8bb,cbc5ed5f-efc2-4cc9-836d-d363d8ca7596,ab7e27eb-eb72-449e-9b51-18ccc15eced7,J06.9,"Acute upper respiratory infection, unspecified",1989-06-21
+cd08203e-8f96-4d01-90fe-c2af08d1c6a1,af54162b-8634-4edf-90c6-6e971e7ff7aa,1deb20b9-6680-49da-a749-d1eed7464cdc,I10,Essential (primary) hypertension,2022-11-27
+be6f30e2-5229-4f1d-8244-2f30e3041ab5,c44bfa98-5d29-49a7-8323-5616fbc013b9,6c03653a-b678-4795-811e-52a36fdaf5fb,I10,Essential (primary) hypertension,2024-05-21
+c9d92c3d-fe3b-4df8-8947-78c98ae2a6f3,f376fbfc-4897-4c5a-b7a7-d29760e812a8,1f04e483-55e7-4851-8445-bc92abaf543d,E11.9,Type 2 diabetes mellitus without complications,1981-07-04
+4a6a585d-5dcc-4164-ad4d-ecc4b7fd29c0,b539d5de-9239-4a37-9aea-9af3741d607d,6918b68e-11b4-422f-b10b-63c54d4c8a1b,J06.9,"Acute upper respiratory infection, unspecified",2018-05-28
+6f24bce7-b26c-4170-adf7-56ad2c21014d,28db8c42-2363-4f7f-8d2b-57ff82d4c790,6918b68e-11b4-422f-b10b-63c54d4c8a1b,E11.9,Type 2 diabetes mellitus without complications,2020-11-19
+770a5a1f-c76b-4d69-8fd6-5d54034d11fb,9b64b382-64fc-4c2a-8387-6e86cd3d553f,d881bcba-85d2-412e-a9e2-c0368798e905,Z00.00,Encounter for general adult medical examination without abnormal findings,2009-11-05
+edad6d0c-4bd4-4bed-8b91-27c420e28f56,5c2a83e4-67a1-43fe-a043-c405f5f03716,5e986b78-c8db-4537-b94d-4daeca2eb73b,I10,Essential (primary) hypertension,1976-11-24
+952b11ec-3da8-428a-91dd-d23def8997b7,f97174f1-f960-4cd7-9f6d-3fff3ca82e7c,5e986b78-c8db-4537-b94d-4daeca2eb73b,E11.9,Type 2 diabetes mellitus without complications,2020-10-06
+24b22af2-f610-4323-8a5c-fba3bfa05805,5004b00a-b150-466b-92da-da62e35133ea,72e2fb24-50d9-4861-a38b-ab0dfc35c565,E11.9,Type 2 diabetes mellitus without complications,2023-12-21
+00db30ff-e12f-4af1-9fd8-e8530b356655,b403fda2-b339-41cd-ae68-7b706ed5724e,14e7cb0a-7eb2-4851-a213-787580dd964d,I10,Essential (primary) hypertension,2003-01-15
+ec7b0f7d-8238-4385-aece-80e8e2826afb,75ec1dfd-6d70-4d03-b105-da1ed284a064,60b8ec3f-2af1-494c-aa38-e90071f4961f,J06.9,"Acute upper respiratory infection, unspecified",2007-12-11
+c312d369-0591-41ac-a92b-a51fba48fece,843db6b1-382f-4550-b343-333e05de5463,58c27628-7c00-405a-95b3-e346831bcce8,Z00.00,Encounter for general adult medical examination without abnormal findings,1984-02-22
+1868d715-e1e9-4afc-b5a5-a5dd60547e39,3c988ba2-dc2f-4e2b-aaab-60f150fb309a,58c27628-7c00-405a-95b3-e346831bcce8,I10,Essential (primary) hypertension,1986-04-05
+992a781e-47ca-4783-aad4-a5e8a902dc61,fa1f1686-2a8a-4adb-a9d8-dca7d5468e58,68d56fe0-0e86-4fa0-9257-f0dde9baf2b7,Z00.00,Encounter for general adult medical examination without abnormal findings,2024-12-21
+1e6f4f80-c67f-4e30-99c3-ed0598cce43d,c3ca72a6-cb92-46b2-89e2-9c88654c17e0,b5cea618-fa6d-47b1-802f-f7073dad9f2e,Z00.00,Encounter for general adult medical examination without abnormal findings,1987-04-20
+54e674fc-5ca8-4416-b65b-2058df42749e,2be34a33-accd-4365-beb3-13cd01660647,9d506a59-2c3e-411c-b31c-f12106ed0dd7,Z00.00,Encounter for general adult medical examination without abnormal findings,2020-02-08
+6c090b5b-eb9b-4fcf-99f8-9a69aa13818a,63d9bb01-2fd3-448e-89c9-9f5aa9d8ad6f,9d506a59-2c3e-411c-b31c-f12106ed0dd7,J06.9,"Acute upper respiratory infection, unspecified",2021-08-02
+39beeba8-dd24-4370-8f6e-f2bf18cd114b,cc447ad3-fa0c-4c03-9e40-08c02b80877c,25dad59e-2d2f-432a-8201-221a4a7226b6,N39.0,"Urinary tract infection, site not specified",1993-03-26
+5c08c521-b81a-460a-9e41-44ba912981fd,5d7dc6c3-f97e-48d6-95b8-d9dd1c103186,25dad59e-2d2f-432a-8201-221a4a7226b6,E11.9,Type 2 diabetes mellitus without complications,2009-05-27
+3f652fbc-9d8b-47cb-a969-7efd19a6a74c,b407056b-8fe3-458f-8a01-83da52d9c179,46eb62a2-8eb0-4b72-bb52-86328be92e44,Z00.00,Encounter for general adult medical examination without abnormal findings,2013-06-20
+d6c009a8-7779-460a-8916-8fc694ec234f,b1823702-9ec8-4f36-866d-a07b6bc2f2b1,ac699346-769a-48dd-a808-5502a0e86ad1,I10,Essential (primary) hypertension,2018-10-07
+55811738-7da6-42f8-9734-3bb39bd7ca89,d9764e2c-95bc-4eb0-835c-3573aeb442c0,14629a9d-3446-4368-9ace-585d7706df8b,I10,Essential (primary) hypertension,1979-09-05
+8635424f-a36f-44fa-9f57-963afc081f30,1e2cd24d-ec3c-4735-8f3b-5d451a27f454,14629a9d-3446-4368-9ace-585d7706df8b,Z00.00,Encounter for general adult medical examination without abnormal findings,2001-08-15
+15fb78f3-2459-4c20-a379-e5f18b5b8254,a15248ba-f25f-48b5-8d64-560fcaecd108,9ea70da6-da7c-4f51-95a2-228ed534550c,Z00.00,Encounter for general adult medical examination without abnormal findings,2015-03-13
+4b21245e-d12c-4e16-ba15-d10a33ab219c,12b8e3d8-2f94-48ea-bc7a-f2112e911977,d58d435f-4db6-4211-a7a6-0325db002779,I10,Essential (primary) hypertension,2024-09-26
+0e0c3e5d-f9e9-4f08-8556-afc0a25123bd,e5636123-b1f1-4ca3-af72-7fea5cb65c6d,d58d435f-4db6-4211-a7a6-0325db002779,E11.9,Type 2 diabetes mellitus without complications,2027-03-03
+3d33b776-c452-46b1-8d42-833e671dcbdf,4aef34cf-cc36-4a0c-b5fd-bb4db25eca42,5a75b3a3-e1be-44b2-bbfc-3c0904ec7f69,I10,Essential (primary) hypertension,2023-09-07
+1fd3b9ca-cc65-4041-8bd1-f347826a47c9,13d39cd5-2fdd-4fc1-abe9-5413249df03b,5a75b3a3-e1be-44b2-bbfc-3c0904ec7f69,Z00.00,Encounter for general adult medical examination without abnormal findings,2024-09-30
+0077acd7-e583-4cb9-b34a-853cf9552a29,77f60213-edb8-4011-b47c-34a08ffc7bd4,6fefba8c-e0e5-4b57-a730-d7e305a096fa,Z00.00,Encounter for general adult medical examination without abnormal findings,2023-09-27
+94f78be7-7bd8-4b82-b10b-fd283076c2da,7198ea04-bb49-47f7-a355-29e946cf24a1,6fefba8c-e0e5-4b57-a730-d7e305a096fa,I10,Essential (primary) hypertension,2025-10-07
+05d694a4-fd13-45d8-b9b2-cc3929c6a207,c6a798fe-231f-4c3d-af2f-2d7ba2e43db5,347722d0-133e-43f7-8783-4d9ef39c96af,I10,Essential (primary) hypertension,2008-07-28
+57fe9832-2a2b-4258-b25e-1d1182688162,c91a8578-ce63-433d-8a44-dde91eeed663,347722d0-133e-43f7-8783-4d9ef39c96af,N39.0,"Urinary tract infection, site not specified",2016-10-25
+7c27b2d3-6eed-4cfd-9841-632419e25f32,d0492bcc-b18a-4f8b-bb00-28dcd7ea8ba6,a50940d9-d3ea-4882-9e8e-587a1ec8f42e,I10,Essential (primary) hypertension,1990-12-11
+67767553-5b11-4d26-b861-fcaf5b641bba,f0251529-da6b-47f8-9d9d-86aa60dfe8b7,eed53209-62ac-48a8-93cf-a8a26e1df6f6,N39.0,"Urinary tract infection, site not specified",2000-09-15
+f361a366-4058-4089-8ec8-379a6250cc65,4579e39e-c26a-44a4-8cc0-e0ae12b7e71a,137a30a8-5950-4ffa-893d-c57e6a015877,J06.9,"Acute upper respiratory infection, unspecified",1991-10-20
+bf659b49-b9eb-4c5a-acd8-31b45f091499,e76c8c37-b165-4d24-aaa9-1bb92bf52c4e,137a30a8-5950-4ffa-893d-c57e6a015877,I10,Essential (primary) hypertension,1998-07-30
+14216700-489f-4fd2-9493-8f11ea39016f,32075279-e867-4152-8991-1fdbf701213e,1ff1ee07-5ac4-4a90-8c30-aa2f1f62c732,Z00.00,Encounter for general adult medical examination without abnormal findings,2024-10-11
+89673952-9dea-405e-ad6e-f3cfbef2b1c2,acac3940-f307-4bf1-9219-03b3346393cb,3c18cff0-8507-4150-b739-95f33fda5da0,E11.9,Type 2 diabetes mellitus without complications,2018-10-16
+b43063e3-6785-4023-981d-5cc34688e8fe,5bce58d6-301a-4ac9-9f10-5204581904ba,7bee5522-b6ec-4164-94c6-c958b1211f1a,N39.0,"Urinary tract infection, site not specified",2025-03-07
+c2eb3686-9d00-4a65-a175-3bad489c2f85,9ef01b42-db85-43da-949a-7eba658e39b8,49502666-4f05-4231-babf-fbafd5217b16,J06.9,"Acute upper respiratory infection, unspecified",2022-07-30
+12f2bac6-7814-4365-ae1e-d410d722c385,342ee274-5467-4546-8ad8-dc997ed10de7,49502666-4f05-4231-babf-fbafd5217b16,I10,Essential (primary) hypertension,2024-10-07
+6dd4e698-6558-4c8f-8db2-8a0cc60a5d6a,7670d5c0-11a6-4683-aa2d-fd32d5179373,00de5e18-db77-41c3-aaec-1d744eb3d148,Z00.00,Encounter for general adult medical examination without abnormal findings,2024-09-14
+40fdec0d-ec53-49a2-a96b-14c7f0fcaa28,2385dbe2-7f15-411d-8d8e-5cb98171bf02,17118499-21aa-4732-a6e5-5ccf445a975e,I10,Essential (primary) hypertension,2024-10-27
+d0eebad7-7855-47c4-acc8-fcb5f30ebc2f,db850ba7-a881-4aed-ad70-6f9c07d92865,146d1ea0-e218-4648-8276-0d555310068d,N39.0,"Urinary tract infection, site not specified",2013-08-23
+10ed49a5-a96e-4361-bbab-163faaeeacf9,a1576b49-5ad3-4baa-a28b-d0538b6207b4,9fa2a16b-a40a-4525-8f96-7a505da706c7,Z00.00,Encounter for general adult medical examination without abnormal findings,2014-06-25
+27ea4f67-5c1a-47b7-8d91-4ccd62164665,2420b460-48f3-4d9f-9836-ad13c64d62e9,9fa2a16b-a40a-4525-8f96-7a505da706c7,N39.0,"Urinary tract infection, site not specified",2017-05-09
+82e4a5ef-86b4-4888-a387-e02d9b1ffa20,39084473-96b6-4579-b75c-784012485596,7dd3dcba-ed1d-4085-a0d2-29197103ca6a,Z00.00,Encounter for general adult medical examination without abnormal findings,1982-11-19
+a96b5970-3790-42e4-8003-628c6946502b,9bd7681f-43f7-4bbd-8537-cf9459225071,7dd3dcba-ed1d-4085-a0d2-29197103ca6a,J06.9,"Acute upper respiratory infection, unspecified",2014-02-05
+e6366fdf-d802-4802-af08-555072a71513,f4fc69c4-c040-4965-afc0-015137fe98a7,65a72aab-1db1-4004-a428-ce6aaa90f988,I10,Essential (primary) hypertension,2021-05-05
+a120929e-5b1e-45e7-a0ca-7d14aadbec9d,289da18b-854d-4528-91d6-10a0084a3298,c4bae084-36ad-443f-bcc4-9511f1f85f7b,E11.9,Type 2 diabetes mellitus without complications,1996-09-12
+58201120-5ff9-47ae-8cb6-8d973b6d8c39,e1cfc110-d407-4351-9667-0c804352c93d,bfa4211d-6d54-40a4-8ffe-eb5a49fe2cb7,Z00.00,Encounter for general adult medical examination without abnormal findings,2017-02-05
+0b740aab-9168-4cdf-9ce8-9ffaa38db4f2,a00d88da-0db8-49a7-834d-13b5fba638a4,bfa4211d-6d54-40a4-8ffe-eb5a49fe2cb7,J06.9,"Acute upper respiratory infection, unspecified",2021-09-27
+c3763bcf-108a-4ec5-b4dd-b2f10597b210,e187521f-b290-41d2-a39e-5e5dfcb555db,33172b21-3eae-4819-89ff-94fd1c8c5a4a,E11.9,Type 2 diabetes mellitus without complications,1992-12-05
+ab114690-fdc7-48be-9a80-b91be4e23e16,41f1efa7-8058-4333-9e0f-ef2d912d6a4e,abf3ec46-c900-4265-94d1-b9fef02917b0,E11.9,Type 2 diabetes mellitus without complications,2023-10-01
+88e80b8e-979f-4cb0-9f6b-8ea6dddb1f12,c2d3a1ff-15d0-4781-874c-fca50d53035c,05c513da-79d7-43af-b7c8-a42821f6be06,I10,Essential (primary) hypertension,2025-05-12
+85eb8759-ea3c-4a95-8faf-89a4f590a450,29f50224-adad-485c-9c03-8ada0e0c7101,05c513da-79d7-43af-b7c8-a42821f6be06,E11.9,Type 2 diabetes mellitus without complications,2027-04-02
+44c41eb8-9982-44f1-9a6a-381789817202,7f8a38d6-ea75-4366-9499-30d457c8e378,7b7e4171-14da-4e3a-ae3a-5c9a7e28b3e5,I10,Essential (primary) hypertension,2005-11-17
+c9e465b4-d5d7-4b87-b64e-6afb253a60a8,7cf67b9d-2db9-412a-afaa-e75403bf6a07,0764b4bc-98cc-4f58-a4ac-5a4a9f201146,I10,Essential (primary) hypertension,2010-10-10
+e09bff0b-c563-4f27-a8cc-e8cf5a01260f,02222480-37bf-4eb6-bb56-2e77fbaa6fcd,b67e2d20-6e58-4991-8e80-3c32e90098e9,E11.9,Type 2 diabetes mellitus without complications,1980-06-12
+e3e93b99-904a-4442-8f50-5089f8d41082,475408bb-ff79-4079-b5f2-1b17c92f7e7e,b67e2d20-6e58-4991-8e80-3c32e90098e9,Z00.00,Encounter for general adult medical examination without abnormal findings,2014-08-09
+7e5b16ad-4621-4bd9-adf5-599d399ffe48,f5f1d436-bfca-47aa-a6c8-dca1857588c8,2717afb0-ba67-487f-a03f-060fcd4e5df4,Z00.00,Encounter for general adult medical examination without abnormal findings,2024-01-09
+1152e2af-9062-47a6-ac5b-694320f4ea41,199052ec-ab5e-4be7-864d-98413e9c14e8,2717afb0-ba67-487f-a03f-060fcd4e5df4,J06.9,"Acute upper respiratory infection, unspecified",2025-04-16
+d9f36ec4-7b5c-48c7-8423-00f919670223,7a61cbe3-f019-4dff-9b63-0e590bf9eb4f,3d81022f-d82d-49f7-a66e-41e6d8b985dc,J06.9,"Acute upper respiratory infection, unspecified",2006-12-09
+adc0f807-9b41-4856-9c73-de4f81424120,41f1d172-9e3c-4ada-93d5-83fd5e323eac,a4348b31-53d6-4104-8ba6-88781c0c5537,E11.9,Type 2 diabetes mellitus without complications,1992-08-22
+9c1e6a2a-010e-44f0-b0bd-34f7c309d638,be75feeb-d252-4e6f-b41a-21a253581c76,27bb5212-829d-46ca-9a23-d6eae82bd889,Z00.00,Encounter for general adult medical examination without abnormal findings,2024-10-05
+06008299-77de-45fb-a932-7d0c9153886c,e9fb12fc-4e7f-4aa2-9e1c-892895b9f353,27bb5212-829d-46ca-9a23-d6eae82bd889,E11.9,Type 2 diabetes mellitus without complications,2025-04-14
+b941a3a4-fff0-400d-94e7-122ae9e3ad60,45f36402-8258-407c-8bc2-8a4d36c27c75,11ba7a72-49c9-4131-9dad-4c9c847c0361,I10,Essential (primary) hypertension,1982-12-13
+10bff1a6-3a17-4e67-93a4-8315f607ad04,b1fa7b8b-5e9c-4d99-995d-0a7e594b08e9,afb3010d-42f8-49a8-94f6-38768c68279a,N39.0,"Urinary tract infection, site not specified",2025-02-20
+655248e5-5240-43a1-b1ca-6585c438c458,844f1b43-4b00-4774-a1fc-8fcec75dd7e7,afb3010d-42f8-49a8-94f6-38768c68279a,Z00.00,Encounter for general adult medical examination without abnormal findings,2027-05-12
+0ab72766-548d-44e1-a715-6f28315dab47,9c294513-67f5-409a-b66c-b7f8eda83349,cc3e8290-7776-4a79-b29b-fc795a164963,I10,Essential (primary) hypertension,1979-01-17
+0e6a5eb0-a38a-4e78-9bf5-26df7f4f73a8,0ac996ca-ae2a-4acf-8959-3f46ccc70b1d,b5cd6428-abc7-4ef1-823c-ec2d500145f5,E11.9,Type 2 diabetes mellitus without complications,2025-01-01
+74ed78a7-b23a-437b-8ac5-c341773bfb19,32251f64-95b1-4ea5-b93d-0ada73d64321,b5cd6428-abc7-4ef1-823c-ec2d500145f5,I10,Essential (primary) hypertension,2026-03-03
+c227d39c-a6d1-41db-bd37-90b1563674a9,0c036547-314d-4a53-a3d2-244bb52905ea,4c799d54-c6ba-464f-8717-4fea23066b14,I10,Essential (primary) hypertension,2023-08-02
+d714872d-2f09-494a-8493-d08485ae8aa4,2a5ec85d-3591-409c-8383-3927a6fa19ee,7396f70d-0e46-428e-8be6-9313f9ac8984,I10,Essential (primary) hypertension,2017-06-20
+466caaa6-8ad0-47df-8454-4f2135675c80,85f15e55-7a09-4004-b623-2e2c723ead60,94b967ac-aaf8-4754-9e14-c41ad8ad6215,E11.9,Type 2 diabetes mellitus without complications,2015-02-19
+ba4188a3-d0ed-4641-a4f0-aa9f2dfd0e70,ce7cc29b-ad98-41a4-a465-270ae4af5d0c,bb3cd703-7a87-4f88-9527-fcf10d1060c9,Z00.00,Encounter for general adult medical examination without abnormal findings,2000-11-01
+b40fcbc6-1ffd-418f-9ce3-cb51857af745,fc467209-7a3f-437e-b7da-842d1f77a628,bb3cd703-7a87-4f88-9527-fcf10d1060c9,E11.9,Type 2 diabetes mellitus without complications,2018-08-23
+541fa812-564b-4eca-b2b5-55f7e6e9d711,9153060e-241b-4de4-b3c7-a4136dd22831,da0ed02b-991a-40fa-bdf6-458facd9e6d4,N39.0,"Urinary tract infection, site not specified",2024-11-11
+caff41c0-ebf4-48a3-932c-4db503c0e08a,6fd50b33-a163-487c-9946-4c5e3574cff1,c67b5c4f-b8bb-4658-b011-4d43a1657042,E11.9,Type 2 diabetes mellitus without complications,2013-05-07
+f4fe9772-b024-4dfd-9f09-3d3425be26fb,6dc57eda-4b84-473c-8014-d84f1a8389e3,42caa562-8005-4c48-9cb8-5667ae256228,I10,Essential (primary) hypertension,1994-06-29
+642d3ad3-036d-4ea2-8f5e-6d73fecc23f1,e6a624fd-1855-48d4-bead-c9025799cc1b,42caa562-8005-4c48-9cb8-5667ae256228,E11.9,Type 2 diabetes mellitus without complications,2006-03-06
+45b6cc73-ef04-4ae0-aa23-a8b72c60a237,d02226d3-985b-441a-a71c-056f560ff1a5,af128687-4c1b-4000-a84d-75c517762b1d,J06.9,"Acute upper respiratory infection, unspecified",2009-07-07
+eea65367-8fef-40a0-8ccc-93e704df075e,de8f70c2-5b26-46a9-8a61-cb5cc68846fc,af128687-4c1b-4000-a84d-75c517762b1d,Z00.00,Encounter for general adult medical examination without abnormal findings,2017-10-10
+476f4544-8634-4492-8cc0-bf904935cd2d,b8d80ffe-f381-4bfc-9681-8e63b9bc10f4,7a0959e0-4ddb-486d-af6b-3ae97cfd0e45,Z00.00,Encounter for general adult medical examination without abnormal findings,2021-02-11
+4b8f1a67-76f5-4623-8201-9e5e79038091,5e032ab7-3e3d-43a9-9bb3-5e4389d7a58d,7a0959e0-4ddb-486d-af6b-3ae97cfd0e45,E11.9,Type 2 diabetes mellitus without complications,2022-09-15
+1b9f98e0-e0da-4d0e-b4a6-a7daa8cbc820,894b530e-2fdd-48ca-bcf3-d60552884cd5,2004ef92-8f42-4060-b915-cf0dd4e602d8,N39.0,"Urinary tract infection, site not specified",2017-06-22
+ed9161a0-1803-44c7-be86-a5a525cf1ab0,de212275-cc1a-49db-a5c5-a6b2c17f3acd,9fa32346-b35f-429a-b5da-c80b1db7c4cf,I10,Essential (primary) hypertension,2019-08-08
+f502a4f6-79ac-40a1-9e44-457efadd3304,b5e82f18-81a1-4985-ada3-72b91b473dbd,21ca13b1-484e-4e09-b13d-08e1f304231d,N39.0,"Urinary tract infection, site not specified",2023-08-16
+32407f35-23e1-4032-bfe4-219cbf4b1b62,278f9900-495d-434a-aa23-efc0ea499353,70812c58-dd21-42cf-9b13-7cd3bc9e016a,Z00.00,Encounter for general adult medical examination without abnormal findings,1992-08-04
+7ff9dbd7-1651-4105-893a-522e553d684f,6228436c-0ae3-41b4-800f-118c6c979a8a,82ffef24-39e4-4772-a6b9-b31eb4038d8c,N39.0,"Urinary tract infection, site not specified",1999-12-29
+0964b73d-3378-4356-b7e2-f13c94cd97ac,27429542-6aa4-42d3-885d-140240995145,c6fb6e83-6128-44f1-a308-927c87d26311,Z00.00,Encounter for general adult medical examination without abnormal findings,2010-05-21
+2fc17e34-83ac-4b90-9057-e1c40e12f3af,8e6ea520-7df5-4b36-8c76-471742c0efe3,c6fb6e83-6128-44f1-a308-927c87d26311,I10,Essential (primary) hypertension,2015-07-21
+b7b35c41-279c-49c9-af56-c2ada5b2de75,ec0b31a5-e22a-44c7-8085-ba662649ed3e,ee44fcbc-9226-4d11-ba0e-8f1141839525,N39.0,"Urinary tract infection, site not specified",2013-09-03
+f6df42cb-c451-4f3d-85bd-06addec9f191,31ac4ea1-64b8-4dc3-a482-45df7bafac8f,ee44fcbc-9226-4d11-ba0e-8f1141839525,I10,Essential (primary) hypertension,2024-07-16
+acd80ff1-3488-4621-9582-8fcf0956e42e,0cc0dff5-38fc-45ad-8c02-cc702f57da5f,3300a2d7-2d13-4ae3-a8a9-899089a66d63,I10,Essential (primary) hypertension,2005-06-19
+9a86181f-5447-46d5-9044-b4a401fc2b54,f7829c6a-7fdc-4a72-9f65-d7bf00b6dfdd,3300a2d7-2d13-4ae3-a8a9-899089a66d63,N39.0,"Urinary tract infection, site not specified",2015-11-12
+2a668fdc-d4af-48ea-b840-9a5032bb3653,05d8cfc2-fac7-4aab-9dfa-7f176e30187b,5549188b-adbf-4135-8de7-147a43a086e8,I10,Essential (primary) hypertension,2024-07-21
+0fcf6cee-26f9-4711-bd4c-cda3cd004bb3,9fd36b15-e986-4aa2-a296-276bfce6e91b,91ec8415-73db-4519-8f74-5b74f2524584,I10,Essential (primary) hypertension,2000-06-03
+22654dd7-4e2f-4592-bd43-48560b7702a6,f852bab6-0739-4ba8-a1ce-17ff018ae26b,5f0f2862-e291-4048-b0ee-8cd0e0d08404,E11.9,Type 2 diabetes mellitus without complications,2024-09-08
+cc8a76f6-5350-42a1-a94a-aae8cb25db2d,8269f678-d0e2-452b-8232-7d2ee1d618ec,5f0f2862-e291-4048-b0ee-8cd0e0d08404,I10,Essential (primary) hypertension,2025-09-28
+70b1f54e-03ec-4c92-b4a1-8d97591b68cc,fa57cc06-c490-4771-9e2b-922f22e5ce63,dc1bc1a1-fb5b-41a2-b46c-e15ea95975f8,E11.9,Type 2 diabetes mellitus without complications,2010-03-11
+2f01569e-222f-47d2-bd2a-cae156c0e599,d09c7f29-2411-4425-b056-9bb819801478,b8db5aa3-3d3e-4726-8e29-02be75e19651,E11.9,Type 2 diabetes mellitus without complications,2011-04-08
+d24fe7b0-9783-43c1-a8dc-22e8a4412313,921e98ec-a8e9-4cd8-b16d-6edc045c0c59,556330a1-e11b-49a7-af2a-3722e20b0da6,J06.9,"Acute upper respiratory infection, unspecified",1980-04-25
+9f19f1bb-e8fe-404a-b4c0-c32d68c9fe6c,4992e6ff-fd10-4cf3-aa9a-e5c6893d31c5,d839e8ab-8f3a-48bf-a30f-781a1a4695bc,E11.9,Type 2 diabetes mellitus without complications,1986-12-03
+3bc60cb9-b4e9-4ca5-99f4-f34b57cbd523,b45a0818-7a42-47f7-9692-af85435babe3,d839e8ab-8f3a-48bf-a30f-781a1a4695bc,N39.0,"Urinary tract infection, site not specified",1996-01-05
+6fb12504-6bcf-4d7e-9b7f-aff6a54a9101,2d23e4e5-cb82-4f7e-bb76-8cd682bbe117,289fe3d1-0d7e-47a8-bdea-d3c2e58c0a90,I10,Essential (primary) hypertension,2024-03-02
+033437ff-f12e-4ed6-a5a6-03c2bdb2dd7a,c712ebd6-a9a0-429a-8236-b2514493917e,9c0f4ccc-aa15-4a49-8669-3de6ee028f43,Z00.00,Encounter for general adult medical examination without abnormal findings,2017-08-06
+73f0cf6b-0846-4adc-b939-6ac79d0d1102,b1b50109-20da-4824-91b4-479852589446,9c0f4ccc-aa15-4a49-8669-3de6ee028f43,I10,Essential (primary) hypertension,2023-12-19
+eeee661d-efcf-4fd1-b02c-814bb64b261e,4426d69a-cf93-46ee-838e-d4fe996ec5be,1a048ef6-6a33-4a3d-88bb-f3f9e0a5f40a,I10,Essential (primary) hypertension,2012-03-28
+03399ea3-6491-48e1-8b8d-44f19f136559,2007cc24-5043-4e5a-b1d8-dd847aa58565,bbb1f3a9-e829-4660-919b-4bd6fe0e9772,E11.9,Type 2 diabetes mellitus without complications,1989-10-17
+4ccfbcd6-840b-4c41-aa3b-3e324dadaa22,ff0ceea5-1d9e-4bc1-80b9-244faf03ccaa,bbb1f3a9-e829-4660-919b-4bd6fe0e9772,Z00.00,Encounter for general adult medical examination without abnormal findings,2005-11-04
+3544459f-d6e9-49ca-bfa2-130ced86ac33,0270101b-1022-4b8b-b5ef-cdd73fa4a5c6,77dd5428-75c3-47b5-8276-d112200fe30d,E11.9,Type 2 diabetes mellitus without complications,1996-01-22
+c49789d2-86d6-498c-940e-98e95a10aff2,73673b89-18af-4980-a992-c26f00664d10,77dd5428-75c3-47b5-8276-d112200fe30d,N39.0,"Urinary tract infection, site not specified",2004-05-19
+b8ea9450-e62a-490c-a7c2-86c109791b3b,eb5dfc51-e2f7-4c13-923d-1b77a8a8b289,0b30ba5f-ad13-4bfb-9254-2cd34f058c27,I10,Essential (primary) hypertension,2003-01-07
+b8b27aaa-a9c1-4ce8-9b4f-7059189e6310,2ef45afe-e226-45ff-bcd1-8a4083c5ff23,ac99547e-c769-410e-b3f3-414db5c94890,E11.9,Type 2 diabetes mellitus without complications,2008-04-15
+6db2f65a-fc29-4570-8f4e-fd98614b006d,4aeb3226-f3bc-4642-9ba7-be422040c9a6,f34794b1-06a8-4bf2-b456-8a83e1ce9d30,I10,Essential (primary) hypertension,1990-10-15
+07cf84fb-3cfe-4e6f-ac97-cf382a9513d1,e9fe0229-b6e8-4099-bbf9-053ffbcccdec,f34794b1-06a8-4bf2-b456-8a83e1ce9d30,J06.9,"Acute upper respiratory infection, unspecified",2010-02-02
+a1f86c0e-484a-4349-a32b-b1a2e83190b6,72191f2e-98f8-4e29-b9ff-df854915d307,a095d708-850f-4431-bd04-c166a69e3c5c,E11.9,Type 2 diabetes mellitus without complications,2022-02-06
+24b86113-8f79-4d43-b852-0d331306b59a,3b2df7c2-be7b-46ed-be90-82028c2f00ce,47f80d91-9194-4978-8fd6-006a83b16604,I10,Essential (primary) hypertension,2002-05-12
+af91e2b1-5b23-4e8b-aea8-2d4256c10b71,592567b0-364e-406c-8f9d-abb4e52e7724,077acb5b-703c-42b0-b312-223e830c9308,I10,Essential (primary) hypertension,1997-07-15
+a3d2ca85-ceea-47ee-bbe7-992ae416aaf8,e49a28a6-446b-43fe-aa69-aaa612c4117e,e1a45f55-070c-43cf-ba3e-1362d2bed783,J06.9,"Acute upper respiratory infection, unspecified",2002-04-15
+ad882426-4d5c-42df-9e6a-4379c8aa416e,b62920ca-3bb5-4ec7-b948-112e3861ae9e,e1a45f55-070c-43cf-ba3e-1362d2bed783,E11.9,Type 2 diabetes mellitus without complications,2005-10-24
+d3cb7981-94bf-4afc-8d0b-dc52dde63da4,723bff32-c26e-4676-a398-662b7af391bf,50b39cfa-ac6b-4dcb-bd08-5126576621e7,E11.9,Type 2 diabetes mellitus without complications,2007-05-13
+365c148d-c396-4129-ab2a-92d9b4b051da,59aa422b-fd8d-4e28-951a-bcad6a939257,58f3fdff-9359-47c7-b3e8-102a6dd5e1b0,J06.9,"Acute upper respiratory infection, unspecified",2024-12-20
+acfacc1c-e7f3-4def-bb5b-a52f9dabc553,e9656d62-0c35-40cc-a4b0-3cabe5bca963,58f3fdff-9359-47c7-b3e8-102a6dd5e1b0,E11.9,Type 2 diabetes mellitus without complications,2025-11-03
+06174c17-daa6-4f7f-9e9a-8f9b91a66f62,87d72d9e-7d5a-49b7-9378-4ca6e39ee9d5,b07d1b09-a674-48ba-9b9e-f6e0c4074148,I10,Essential (primary) hypertension,2005-02-27
+1da84de7-64fd-4953-9839-672d3aab3b55,f31bb2f6-b8b1-4e3f-87bf-fbdd9b3ab521,bb0650d0-12ee-4a6c-9ff2-92186a805587,J06.9,"Acute upper respiratory infection, unspecified",2023-12-27
+077edea4-3f9e-4efa-946e-9cfe279a3845,60c65be8-22a5-480d-adf3-655737ce302a,bb0650d0-12ee-4a6c-9ff2-92186a805587,I10,Essential (primary) hypertension,2026-09-21
+f3942394-b045-48e8-8bb6-10ae7f9c38ac,fb3e3bb4-ef8e-4ebf-aafb-a727ee569d53,187a8be4-25d9-4232-be19-ec170a928c4a,I10,Essential (primary) hypertension,1973-07-11
+e0d7cf62-13b0-4f3f-83fc-9aa9191df5db,d2ef2176-b425-4531-af58-e69aec8388ac,187a8be4-25d9-4232-be19-ec170a928c4a,Z00.00,Encounter for general adult medical examination without abnormal findings,1991-11-08
+e2252822-d7de-423c-83ee-1f5aa3be2b57,b009b00a-3743-492c-a7ad-68857b5f4f81,c603ee2a-4f13-499d-a35f-1f67a9842d1f,Z00.00,Encounter for general adult medical examination without abnormal findings,2023-03-18
+65100cbf-f4e0-42d5-a2ff-b977d60460d8,b7327ad6-514a-465f-8f3e-a07c8bd5fa54,a7bda934-d2cd-40a2-bc06-61db98011509,Z00.00,Encounter for general adult medical examination without abnormal findings,1995-09-24
+6f75a3f0-60e5-4ed1-a935-8acd2b53136b,e70c7679-e036-4153-80cb-74a0a3c27a16,a7bda934-d2cd-40a2-bc06-61db98011509,J06.9,"Acute upper respiratory infection, unspecified",1999-06-23
+ec3ba96d-f54f-4ef7-b500-1f998f3e7b31,63b0bbfa-357b-4c2e-bdf1-de9716e2ae16,0f7cf347-eeae-494f-8669-df4e9f8408b8,N39.0,"Urinary tract infection, site not specified",2021-06-09
+5f03210b-ae64-4763-b89a-d1c2c67523aa,ca295294-09cd-4b79-b9b2-94a6ec76e70b,0f7cf347-eeae-494f-8669-df4e9f8408b8,E11.9,Type 2 diabetes mellitus without complications,2024-12-04
+98e34a47-afa2-438f-9c44-346c9ac78c4a,6a5245fe-d211-41aa-bdb0-6784b2abfd3a,296b74cd-965e-47ed-a9f2-28418a02f1a1,I10,Essential (primary) hypertension,2013-08-27
+35fc16d6-8eda-4648-8784-8e7f9ec2b1dd,f7ee1710-290e-4693-8f1a-e6d70603a85b,296b74cd-965e-47ed-a9f2-28418a02f1a1,N39.0,"Urinary tract infection, site not specified",2021-08-27
+d737d3c2-f38c-4e61-8add-7c64ef22c2e1,23c21562-efb1-43d5-b584-72acceeaa6e6,3e5d4422-6dc0-42ca-84ca-d7288a40a52b,Z00.00,Encounter for general adult medical examination without abnormal findings,2021-11-01
+c0539a1f-bce9-47cc-b676-575de2d633de,9b0ff1d0-a2c8-4ea0-806b-c74b83c733f0,3e5d4422-6dc0-42ca-84ca-d7288a40a52b,I10,Essential (primary) hypertension,2023-12-26
