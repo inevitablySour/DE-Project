@@ -1,7 +1,7 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
-engine = create_engine("postgresql+psycopg2://group_user:group_pass@localhost:5432/health_db")
+engine = create_engine("postgresql+psycopg2://group_user:group_pass@localhost:5433/health_db")
 
 queries = {
     "Q1_AgeStats": """

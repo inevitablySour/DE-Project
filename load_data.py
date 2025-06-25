@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 
 # Set up connection string for PostgreSQL
 engine = create_engine(
-    "postgresql+psycopg2://group_user:group_pass@localhost:5432/health_db"
+    "postgresql+psycopg2://group_user:group_pass@localhost:5433/health_db"
 )
 
 # List of CSV files and their corresponding table names
