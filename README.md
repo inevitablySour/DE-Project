@@ -52,11 +52,11 @@ This will:
 
 4. Import the data into PostgreSQL
 
-python import_data.py
+python load_data.py
 
 5. Run the project queries
 
-python run_queries.py
+python queries.py
 
 Query results will be saved as CSV files in the `output/` folder.
 

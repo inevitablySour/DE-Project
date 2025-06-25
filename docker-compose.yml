@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   postgres:
-    image: postgres:15
+    image: postgres:17
     container_name: health_db
     restart: always
     environment:
@@ -15,18 +15,6 @@ services:
       - pgdata:/var/lib/postgresql/data
       - ./init.sql:/docker-entrypoint-initdb.d/init.sql
       - ./cleaned_data:/data
-
-  pgadmin:
-    image: dpage/pgadmin4
-    container_name: pgadmin
-    restart: always
-    environment:
-      PGADMIN_DEFAULT_EMAIL: admin@zuyd.nl
-      PGADMIN_DEFAULT_PASSWORD: admin123
-    ports:
-      - "8080:80"
-    depends_on:
-      - postgres
 
 volumes:
   pgdata:
