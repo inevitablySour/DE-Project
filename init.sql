@@ -5,6 +5,7 @@ CREATE TABLE patients (
                           last_name TEXT,
                           gender TEXT,
                           date_of_birth DATE,
+                          age int64,
                           address TEXT,
                           city TEXT,
                           state TEXT,

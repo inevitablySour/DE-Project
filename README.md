@@ -23,7 +23,7 @@ Make sure you have the following installed:
 
 Then install Python packages:
 
-pip install pandas sqlalchemy psycopg2-binary
+pip install pandas sqlalchemy psycopg2-binary pyarrow
 
 ## Setup Instructions
 

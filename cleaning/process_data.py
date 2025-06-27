@@ -6,8 +6,10 @@ import re
 from datetime import datetime
 from pathlib import Path
 
+# This file was used to produce the csv files in /cleaned data
+
 # Create output directory
-output_dir = "cleaned_data"
+output_dir = "../cleaned_data"
 Path(output_dir).mkdir(exist_ok=True)
 
 # --- Normalization Helpers ---
@@ -42,9 +44,9 @@ def clean_dataframe(df):
 # --- Process CSV Files ---
 
 print("Processing CSV files...")
-patients_df = clean_dataframe(pd.read_csv("data/patients.csv"))
-observations_df = clean_dataframe(pd.read_csv("data/observations.csv"))
-procedures_df = clean_dataframe(pd.read_csv("data/procedures.csv"))
+patients_df = clean_dataframe(pd.read_csv("../data/patients.csv"))
+observations_df = clean_dataframe(pd.read_csv("../data/observations.csv"))
+procedures_df = clean_dataframe(pd.read_csv("../data/procedures.csv"))
 
 patients_df.to_csv(os.path.join(output_dir, "patients_cleaned.csv"), index=False)
 observations_df.to_csv(os.path.join(output_dir, "observations_cleaned.csv"), index=False)
@@ -53,12 +55,12 @@ procedures_df.to_csv(os.path.join(output_dir, "procedures_cleaned.csv"), index=F
 # --- Process JSON Files ---
 
 print("Processing JSON files...")
-with open("data/diagnoses.json") as f:
+with open("../data/diagnoses.json") as f:
     diagnoses_data = json.load(f)
 diagnoses_df = clean_dataframe(pd.DataFrame(diagnoses_data))
 diagnoses_df.to_csv(os.path.join(output_dir, "diagnoses_cleaned.csv"), index=False)
 
-with open("data/medications.json") as f:
+with open("../data/medications.json") as f:
     medications_data = json.load(f)
 medications_df = clean_dataframe(pd.DataFrame(medications_data))
 medications_df.to_csv(os.path.join(output_dir, "medications_cleaned.csv"), index=False)
@@ -66,7 +68,7 @@ medications_df.to_csv(os.path.join(output_dir, "medications_cleaned.csv"), index
 # --- Process SQLite File ---
 
 print("Processing SQLite file...")
-conn = sqlite3.connect("data/ehr_journeys_database.sqlite")
+conn = sqlite3.connect("../data/ehr_journeys_database.sqlite")
 cursor = conn.cursor()
 
 cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")

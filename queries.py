@@ -6,9 +6,9 @@ engine = create_engine("postgresql+psycopg2://group_user:group_pass@localhost:54
 queries = {
     "Q1_AgeStats": """
         SELECT 
-            ROUND(AVG(EXTRACT(YEAR FROM AGE(current_date, date_of_birth)))) AS avg_age,
-            MIN(EXTRACT(YEAR FROM AGE(current_date, date_of_birth))) AS min_age,
-            MAX(EXTRACT(YEAR FROM AGE(current_date, date_of_birth))) AS max_age
+            ROUND(AVG(age)) AS avg_age,
+            MIN(age) AS min_age,
+            MAX(age) AS max_age
         FROM patients;
     """,
     "Q2_PatientsPerPhysician": """
@@ -21,7 +21,7 @@ queries = {
     "Q3_CommonDiagnosesByAge": """
         SELECT 
             diagnosis_description,
-            ROUND(EXTRACT(YEAR FROM AGE(current_date, p.date_of_birth)) / 10) * 10 AS age_group,
+            ROUND(p.age / 10.0) * 10 AS age_group,
             COUNT(*) AS count
         FROM diagnoses d
         JOIN patients p ON d.patient_id = p.patient_id
