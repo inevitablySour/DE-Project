@@ -1,8 +1,15 @@
 C:.
+│   docker-compose.yml
+│   init.sql
+│   load_data.py
 │   process_data.py
+│   queries.py
+│   README.md
+│   test_connection.py
+│   test_report.py
 │
 ├───analysis
-│       set1.ipynb
+│       report.ipynb
 │
 ├───cleaned_data
 │       diagnoses_cleaned.csv
@@ -12,6 +19,9 @@ C:.
 │       patients_cleaned.csv
 │       procedures_cleaned.csv
 │
+├───cleaning
+│       cleaningv2.ipynb
+│
 ├───data
 │       diagnoses.json
 │       ehr_journeys_database.sqlite
@@ -20,4 +30,15 @@ C:.
 │       patients.csv
 │       procedures.csv
 │
-└───info
+├───info
+│       tree.txt
+│
+├───output
+│       Q1_AgeStats.csv
+│       Q2_PatientsPerPhysician.csv
+│       Q3_CommonDiagnosesByAge.csv
+│       Q4_MedicationPerDiagnosis.csv
+│       Q5_ProceduresPerEncounter.csv
+│
+├───script
+└───v2cleaned_data
