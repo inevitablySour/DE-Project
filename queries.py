@@ -6,17 +6,22 @@ engine = create_engine("postgresql+psycopg2://group_user:group_pass@localhost:54
 queries = {
     "Q1_AgeStats": """
         SELECT 
-            ROUND(AVG(age)) AS avg_age,
-            MIN(age) AS min_age,
-            MAX(age) AS max_age
+            ROUND(AVG(age), 1) AS average_age,
+            MIN(age) AS youngest_age,
+            MAX(age) AS oldest_age,
+            MAX(age) - MIN(age) AS age_range
         FROM patients;
     """,
     "Q2_PatientsPerPhysician": """
         SELECT 
-            attending_physician_id, 
-            COUNT(DISTINCT patient_id) AS unique_patients
-        FROM encounters
-        GROUP BY attending_physician_id;
+            ROUND(AVG(patient_count), 1) AS avg_patients_per_physician
+        FROM (
+            SELECT 
+                attending_physician_id, 
+                COUNT(DISTINCT patient_id) AS patient_count
+            FROM encounters
+            GROUP BY attending_physician_id
+        ) AS sub;
     """,
     "Q3_CommonDiagnosesByAge": """
         SELECT 
@@ -39,15 +44,13 @@ queries = {
         GROUP BY d.diagnosis_description, m.drug_name
         ORDER BY times_prescribed DESC;
     """,
-    "Q5_ProceduresPerEncounter": """
+    "Q5_TopProcedures": """
         SELECT 
-            p.patient_id,
-            COUNT(DISTINCT pr.procedure_id) / COUNT(DISTINCT e.encounter_id)::float AS avg_procedures_per_encounter
-        FROM procedures pr
-        JOIN encounters e ON pr.encounter_id = e.encounter_id
-        JOIN patients p ON e.patient_id = p.patient_id
-        GROUP BY p.patient_id
-        ORDER BY avg_procedures_per_encounter DESC;
+        procedure_description,
+        COUNT(*) AS times_performed
+        FROM procedures
+        GROUP BY procedure_description
+        ORDER BY times_performed DESC;
     """
 }
 

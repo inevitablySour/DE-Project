@@ -1,2 +1,2 @@
-avg_age,min_age,max_age
-57.0,25,86
+average_age,youngest_age,oldest_age,age_range
+56.7,25,86,61

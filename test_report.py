@@ -22,45 +22,53 @@ EXPECTED_TABLES = [
 
 # Required queries
 QUERIES = {
-    "Q1 - Average age and age range of patients": """
+    "Q1_AgeStats": """
         SELECT 
-            AVG(EXTRACT(YEAR FROM AGE(CURRENT_DATE, date_of_birth))) AS average_age,
-            MAX(EXTRACT(YEAR FROM AGE(CURRENT_DATE, date_of_birth))) - 
-            MIN(EXTRACT(YEAR FROM AGE(CURRENT_DATE, date_of_birth))) AS age_range
+            ROUND(AVG(age), 1) AS average_age,
+            MIN(age) AS youngest_age,
+            MAX(age) AS oldest_age,
+            MAX(age) - MIN(age) AS age_range
         FROM patients;
     """,
-    "Q2 - Average number of patients per physician": """
-        SELECT AVG(patient_count) FROM (
-            SELECT COUNT(DISTINCT patient_id) AS patient_count
+    "Q2_PatientsPerPhysician": """
+        SELECT 
+            ROUND(AVG(patient_count), 1) AS avg_patients_per_physician
+        FROM (
+            SELECT 
+                attending_physician_id, 
+                COUNT(DISTINCT patient_id) AS patient_count
             FROM encounters
-            WHERE attending_physician_id IS NOT NULL
             GROUP BY attending_physician_id
         ) AS sub;
     """,
-    "Q3 - Common diagnoses by patients aged 30–40": """
-        SELECT d.diagnosis_description, COUNT(*) AS freq
+    "Q3_CommonDiagnosesByAge": """
+        SELECT 
+            diagnosis_description,
+            ROUND(p.age / 10.0) * 10 AS age_group,
+            COUNT(*) AS count
         FROM diagnoses d
         JOIN patients p ON d.patient_id = p.patient_id
-        WHERE EXTRACT(YEAR FROM AGE(CURRENT_DATE, p.date_of_birth)) BETWEEN 30 AND 40
-        GROUP BY d.diagnosis_description
-        ORDER BY freq DESC
-        LIMIT 5;
+        GROUP BY age_group, diagnosis_description
+        ORDER BY age_group, count DESC;
     """,
-    "Q4 - Medications per diagnosis": """
-        SELECT d.diagnosis_description, COUNT(DISTINCT m.medication_order_id) AS med_count
+    "Q4_MedicationPerDiagnosis": """
+        SELECT 
+            d.diagnosis_description, 
+            m.drug_name, 
+            COUNT(*) AS times_prescribed
         FROM diagnoses d
-        JOIN medications m ON d.patient_id = m.patient_id
-        GROUP BY d.diagnosis_description
-        ORDER BY med_count DESC
-        LIMIT 5;
+        JOIN encounters e ON d.encounter_id = e.encounter_id
+        JOIN medications m ON e.encounter_id = m.encounter_id
+        GROUP BY d.diagnosis_description, m.drug_name
+        ORDER BY times_prescribed DESC;
     """,
-    "Q5 - Procedures per encounter": """
-        SELECT e.encounter_id, COUNT(p.procedure_id) AS procedure_count
-        FROM encounters e
-        JOIN procedures p ON e.encounter_id = p.encounter_id
-        GROUP BY e.encounter_id
-        ORDER BY procedure_count DESC
-        LIMIT 5;
+    "Q5_Top Procedures": """
+        SELECT 
+        procedure_description,
+        COUNT(*) AS times_performed
+        FROM procedures
+        GROUP BY procedure_description
+        ORDER BY times_performed DESC;
     """
 }
 
