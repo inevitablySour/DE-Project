@@ -29,7 +29,7 @@ pip install pandas sqlalchemy psycopg2-binary pyarrow
 
 1. Clone the repository
 
-git clone https://github.com/your-org/your-repo.git
+git clone https://github.com/inevitablySour/DE-Project.git
 cd your-repo
 
 2. Place cleaned CSVs in the `cleaned_data/` folder
